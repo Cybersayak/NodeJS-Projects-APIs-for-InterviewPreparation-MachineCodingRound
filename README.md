@@ -1,1 +1,2 @@
 # ReactJS & NodeJS Mastery
+![alt text](<DALL·E 2025-03-06 14.21.48 - A Bollywood-style love triangle poster inspired by 'Pati Patni Aur Woh', featuring a young developer in the center looking confused. On one side, a wo.webp>)
